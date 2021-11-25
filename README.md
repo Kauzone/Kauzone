@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kauzone
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning UX Design and UI (FIGMA)
+- 👀 I’m interested in UI/UX Design and QA
+- 🌱 I’m currently learning UX Design and UI (FIGMA) and Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lucaskauansn@gmail.com
 
